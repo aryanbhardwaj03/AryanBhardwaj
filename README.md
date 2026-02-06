@@ -1,2 +1,3 @@
 # AryanBhardwaj
-Hello World, this is my profile
+Hi there 👋
+Hello World, this is my profile 
